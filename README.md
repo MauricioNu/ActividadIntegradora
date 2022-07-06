@@ -1,2 +1,3 @@
 # ActividadIntegradora
 Mauricio
+Sebastian Rey
