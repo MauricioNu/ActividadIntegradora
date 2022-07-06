@@ -1,5 +1,5 @@
 # ActividadIntegradora
-Mauricio
+Mauricio Nuñez
 Sebastian Rey
 Alexander Bael
 Tomàs Gongora
